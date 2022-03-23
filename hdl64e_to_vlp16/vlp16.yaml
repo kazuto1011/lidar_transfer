@@ -1,0 +1,9 @@
+name: "Velodyne VLP-16"
+beams: 16
+fov_up: 15
+fov_down: -15
+fov_hor: 360
+angle_res_hor: 0.1757 # 2048
+res_hor: 2048
+height: 2.3
+beam_angles:

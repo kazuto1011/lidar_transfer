@@ -1,0 +1,16 @@
+name: lidar_transfer
+dependencies:
+  - conda-forge::gcc
+  - conda-forge::gxx_linux-64=10.3.0
+  - conda-forge::matplotlib
+  - conda-forge::pip
+  - conda-forge::pycuda
+  - cython
+  - python=3.8
+  - scikit-image=0.18.3
+  - scipy
+  - vispy
+  - pip:
+    - pyaml
+    - pyqt5
+    - torchvision
